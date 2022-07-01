@@ -1,7 +1,7 @@
 {
-  "name": "gitpod-node-base",
+  "name": "gitpod-node-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a very bare starter to use for NodeJS projects in Gitpod.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
